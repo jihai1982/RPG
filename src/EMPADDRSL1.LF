@@ -1,0 +1,3 @@
+000100090210     A          R EMPADDR                   PFILE(EMP_ADDR)
+000101090209     A                                      FORMAT(EMPADDRESS)
+000106041028     A          K EMPNO
